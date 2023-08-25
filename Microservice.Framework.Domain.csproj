@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>MahdiAali.Microservice.Framework.Domain</PackageId>
+    <Title>Microservice Domain Framework</Title>
+    <Authors>Mahdi-Aali</Authors>
+    <PackageTags>mahdi aali;microservices;framework;domain;</PackageTags>
+    <PackageIcon>block-10015.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\mahdi\Downloads\block-10015.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
